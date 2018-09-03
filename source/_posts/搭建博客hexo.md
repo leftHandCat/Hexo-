@@ -8,6 +8,8 @@ tags: 工具使用
  github 将博客与 github 关联, 同时实现 一边写 md 文件, 一边本地预览
  theme  本博客，用的主题 yilia 设置博客主题
 
+ <font colo="red">this is a test</font>
+
 -----------------------------------------------------------------------------------------------
 
 ### 一、github 博客托管，可直接实现外网访问  https://lefthandcat.github.io
